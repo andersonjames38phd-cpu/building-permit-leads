@@ -1,0 +1,100 @@
+[
+  {
+    "city": "Chicago, IL",
+    "issuedDate": "2026-11-15",
+    "permitNumber": "B200519851",
+    "permitType": "PERMIT – EXPRESS PERMIT PROGRAM",
+    "workType": "Reroofing",
+    "description": "SCOPE: ROOF REPLACEMENT. AREA: 2800 SQ. FT. ROOF COVERING: OTHER. LOCATION: ROOFTOP. IL ROOFING CONTRACTOR LICENSE: 104020646.",
+    "value": 56000,
+    "status": "ACTIVE",
+    "appliedDate": "2026-11-12",
+    "address": {
+      "street": "2110 E 71ST ST",
+      "zip": null
+    },
+    "contractor": {
+      "company": "A1 NEIGHBORHOOD CONSTRUCTION & MRB ROOFING LLC",
+      "name": null,
+      "phone": null,
+      "trade": "general contractor"
+    },
+    "owner": "T. D.",
+    "contacts": [
+      {
+        "role": "owner",
+        "name": "T. D.",
+        "city": "CHICAGO",
+        "state": "IL"
+      },
+      {
+        "role": "web applicant",
+        "name": "V. M.",
+        "city": "GARY",
+        "state": "IN"
+      },
+      {
+        "role": "applicant’s representative",
+        "name": "V. M.",
+        "city": "GARY",
+        "state": "IN"
+      },
+      {
+        "role": "general contractor",
+        "name": "A. N. C. &. M. R. L.",
+        "city": "FRANKFORT",
+        "state": "IL"
+      }
+    ],
+    "lat": 41.76637699988293,
+    "lon": -87.5733738910822,
+    "url": "https://webapps1.chicago.gov/buildingrecords/"
+  },
+  {
+    "city": "New York City, NY",
+    "issuedDate": "2026-11-13",
+    "permitNumber": "B01482916-I1-SL",
+    "permitType": "Solar",
+    "workType": "Initial Permit",
+    "description": "FILING HEREWITH TAX ABATEMENT APPLICATION FOR INSTALLATION OF ROOF MOUNTED SOLAR PANELS. NO CHANGE IN USE, EGRESS OR OCCUPANCY.",
+    "value": 42750,
+    "status": "Permit Issued",
+    "appliedDate": "2026-11-06",
+    "address": {
+      "street": "755 EAST 45 STREET (Brooklyn)",
+      "zip": "11203"
+    },
+    "contractor": {
+      "company": "SUNRUN INSTALLATION SVC",
+      "name": "P. J.",
+      "phone": null,
+      "trade": "GC",
+      "license": "613329",
+      "address": "775 FIERO LN STE 200"
+    },
+    "owner": "P.",
+    "lat": 40.642843,
+    "lon": -73.934264,
+    "url": "https://a810-dobnow.nyc.gov/publish/Index.html#!/"
+  },
+  {
+    "city": "Los Angeles, CA",
+    "issuedDate": "2026-11-14",
+    "permitNumber": "26014-10002-00024",
+    "permitType": "Bldg-Alter/Repair - 1 or 2 Family Dwelling",
+    "workType": "Accessory Dwelling Unit",
+    "description": "Revise portion of roof to tie into existing patio roof.",
+    "value": 4500,
+    "status": "Issued",
+    "appliedDate": null,
+    "address": {
+      "street": "5427-5427 1/2 N CEDROS AVE",
+      "zip": "91411"
+    },
+    "contractor": null,
+    "owner": null,
+    "lat": 34.16913,
+    "lon": -118.45328,
+    "url": "https://www.ladbsservices2.lacity.org/OnlineServices/PermitReport/PcisPermitDetail?id1=26014&id2=10002&id3=00024"
+  }
+]
